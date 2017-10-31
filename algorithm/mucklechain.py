@@ -1,3 +1,8 @@
+'''
+2017 / 10 / 31 Juung Bae
+머클트리의 hash를 만드는 알고리즘 테스트 코드
+@logic @muckle @hash
+'''
 import hashlib
 import time
 

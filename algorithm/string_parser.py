@@ -1,3 +1,9 @@
+'''
+2017 / 10 / 31 Juung Bae
+PhScript 기본 내용만 구현
+@transaction @lang @parser
+'''
+
 def hello() :
     str_v = "SEND 26738498932892398 TO 278134903287127384"
 
